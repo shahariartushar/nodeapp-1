@@ -1,3 +1,3 @@
 # nodeapp-1
 
-my first no.js/express application
+my first node.js/express application
